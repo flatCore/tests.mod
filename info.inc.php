@@ -4,7 +4,7 @@
  */
 
 $mod = [
-    'name' => tests,
+    'name' => 'tests',
     'version' => '0.1',
     'author' => "flatCore DevTeam",
     "description" => "Tests for the backend and its ui"
